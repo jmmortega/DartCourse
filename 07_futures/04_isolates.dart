@@ -1,0 +1,1 @@
+//Basic of isolates, only to know, no deeply knowledge
