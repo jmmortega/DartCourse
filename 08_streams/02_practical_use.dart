@@ -1,1 +1,0 @@
-//Practical use of Streams, good practices

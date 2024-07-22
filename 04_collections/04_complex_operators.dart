@@ -10,4 +10,3 @@ final List<Player> players = List<Player>.empty(growable: true)
   ..add(Player(name: 'Paco', teamName: '', age: 18))
   ..add(Player(name: 'Juanmi', teamName: '', age: 25))
   ..add(Player(name: 'Chema', teamName: '', age: 30));
-
